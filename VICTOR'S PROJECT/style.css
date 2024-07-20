@@ -1,0 +1,34 @@
+#stanza1 {
+    background-image: url(mastering.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.stanza1 {
+    color: white;
+}
+
+
+#stanza2 {
+    background-image: url(researching.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.stanza2 {
+    color: white;
+}
+
+
+#stanza3 {
+    background-image: url(banner.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.stanza3 {
+    color: white;
+}
+
+
+
+#game {
+    padding-left: 520px;
+}
