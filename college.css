@@ -169,8 +169,6 @@ span {
 }
 .contact {
     background-image: url(bg image.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 .contact form {
     max-width: 70rem;
