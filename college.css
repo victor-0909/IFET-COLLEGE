@@ -46,6 +46,14 @@ section {
     font-weight: 600;
     cursor: default;
 }
+.navbar {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
 .navbar a {
     font-size: 1.7rem;
     color: var(--text-color);
