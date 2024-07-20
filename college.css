@@ -105,6 +105,9 @@ span {
     font-size: 1.6rem;
     color: white;
 }
+.1 {
+    color: white;
+}
 .social-media a {
     display: inline-flex;
     justify-content: center;
